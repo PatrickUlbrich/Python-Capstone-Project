@@ -1,14 +1,26 @@
 # Python-Capstone-Project
 
-Das Capstone Project besteht aus mehreren Jupyter Notebooks und einer Visualisierung in Cognos. 
+Hierbei handelt es sich um mein Repository für [IBM Data Analyst Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-analyst)
+Das Capstone Project besteht, angelehnt an den Kursverlauf, aus mehreren Jupyter Notebooks und einer Visualisierung in Cognos. 
+
+## Übersicht des Projekts
 
 Die Notebooks wurden in der folgenden Reihenfolge bearbeitet (Links führen direkt zu den Notebooks oder dem Dashboard in IBM Cognos): 
 1. [Web-Scraping](https://github.com/PatrickUlbrich/Python-Capstone-Project/blob/main/Web-Scraping-Lab.ipynb)
 2. [Collecting job data using APIs](https://github.com/PatrickUlbrich/Python-Capstone-Project/blob/main/Collecting_job_data_using_APIs-Lab.ipynb)
 3. [Data Wrangling using Python](https://github.com/PatrickUlbrich/Python-Capstone-Project/blob/main/M2DataWrangling-lab.ipynb)
 4. [Data Analysis using Python](https://github.com/PatrickUlbrich/Python-Capstone-Project/blob/main/M3ExploratoryDataAnalysis-lab.ipynb)
-5. [Data Visualization from a databse using SQL and Python](https://github.com/PatrickUlbrich/Python-Capstone-Project/blob/main/M4DataVisualization-lab.ipynb)
-6. [Data Visualization in a Dashboard in IBM Cognos](https://eu-de.dataplatform.cloud.ibm.com/dashboards/4b6f2ac0-57ed-4c1b-87f6-6208b9d49a83/view/6400d51b399719c213f1d0e4079f2b0e7c3e7655b4bbd006848c7b4906637197a96e4593c82b1852dc130c62f0e94458ce) - Laden kann einige Sekunden dauern. 
+5. [Data Visualization from a database using SQL and Python](https://github.com/PatrickUlbrich/Python-Capstone-Project/blob/main/M4DataVisualization-lab.ipynb)
+6. [Data Visualization in a Dashboard in IBM Cognos](https://eu-de.dataplatform.cloud.ibm.com/dashboards/4b6f2ac0-57ed-4c1b-87f6-6208b9d49a83/view/6400d51b399719c213f1d0e4079f2b0e7c3e7655b4bbd006848c7b4906637197a96e4593c82b1852dc130c62f0e94458ce) - Das Laden kann einige Sekunden dauern. 
+
+## Genutzte Software
+Für das Projekt wurde Jupyter Notebooks, Python, SQL, sowie API Anbindungen und IBM Cognos genutzt. 
+
+In Python wurden die folgenden Pakete genutzt:
+1. Datenverarbeitung: Pandas, Numpy
+2. Datenvisualisierung: Matplotlib, Seaborn
+3. Webscraping und APIs: Requests, BeautifulSoup
+4. Datenbankanbindung: SQLite3
 
 ## Informationen zu den Daten für das Dashboard in IBM Cognos
 
